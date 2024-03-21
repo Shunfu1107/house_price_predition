@@ -1,0 +1,4 @@
+steamlit
+joblit
+numpy
+scikit-learn
